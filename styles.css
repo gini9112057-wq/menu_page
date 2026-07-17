@@ -113,6 +113,13 @@ section {
   background: #fff;
 }
 
+.menu-item .allergen-note {
+  color: #c87542;
+  font-size: 13px;
+  margin-top: 6px;
+  margin-bottom: 0;
+}
+
 .menu-item h3 {
   margin-top: 0;
 }
