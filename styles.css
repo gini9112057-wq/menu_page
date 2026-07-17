@@ -63,6 +63,12 @@ h3 {
   font-size: 42px;
 }
 
+.hero-slogan {
+  margin: 0;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
 .hero p,
 .section-heading p,
 .menu-item p,
